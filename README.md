@@ -1,8 +1,8 @@
-Jonathan Ash
+#Jonathan Ash:
 
-Little Rock, Arkansas
+*Little Rock, Arkansas
 
-Data Analyst
+*Data Analyst
 
 
 ![Light blue](https://user-images.githubusercontent.com/82967749/128938046-6c308e9a-14a0-48c2-b532-7752969959d7.png)
